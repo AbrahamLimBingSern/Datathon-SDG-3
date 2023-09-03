@@ -18,3 +18,6 @@ reduce illnesses and death from hazardous chemicals and pollution, implement the
 convention on tobacco control, support research, development and universal access to affordable 
 vaccines and medicines, increase health financing and support health workforce in developing 
 countries and improve early warning systems for global health risk.
+
+You also can go through my Tableau Public for easier read, the link of Tableau Public at below: 
+https://public.tableau.com/app/profile/abraham.lim/viz/LearningProcessSDG3/StorySDG3
