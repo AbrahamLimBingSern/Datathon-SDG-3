@@ -1,0 +1,97 @@
+State,Year,Staff type,Hospital category,Number of staff
+Johor,2015,Doctor,Government ,2854
+Johor,2015,Nurse,Government,6441
+Johor,2016,Doctor,Government ,2887
+Johor,2016,Nurse,Government,6688
+Johor,2017,Doctor,Government ,3235
+Johor,2017,Nurse,Government,6785
+Kedah,2015,Doctor,Government ,2036
+Kedah,2015,Nurse,Government,4542
+Kedah,2016,Doctor,Government ,2166
+Kedah,2016,Nurse,Government,4613
+Kedah,2017,Doctor,Government ,2292
+Kedah,2017,Nurse,Government,4684
+Kelantan,2015,Doctor,Government ,1658
+Kelantan,2015,Nurse,Government,4818
+Kelantan,2016,Doctor,Government ,1732
+Kelantan,2016,Nurse,Government,4861
+Kelantan,2017,Doctor,Government ,1945
+Kelantan,2017,Nurse,Government,4906
+Melaka,2015,Doctor,Government ,1112
+Melaka,2015,Nurse,Government,2072
+Melaka,2016,Doctor,Government ,1175
+Melaka,2016,Nurse,Government,2252
+Melaka,2017,Doctor,Government ,1383
+Melaka,2017,Nurse,Government,2256
+Negeri Sembilan,2015,Doctor,Government ,1502
+Negeri Sembilan,2015,Nurse,Government,2479
+Negeri Sembilan,2016,Doctor,Government ,1619
+Negeri Sembilan,2016,Nurse,Government,2585
+Negeri Sembilan,2017,Doctor,Government ,1946
+Negeri Sembilan,2017,Nurse,Government,2653
+Pahang,2015,Doctor,Government ,1630
+Pahang,2015,Nurse,Government,3857
+Pahang,2016,Doctor,Government ,1691
+Pahang,2016,Nurse,Government,4015
+Pahang,2017,Doctor,Government ,1818
+Pahang,2017,Nurse,Government,4075
+Pulau Pinang,2015,Doctor,Government ,1831
+Pulau Pinang,2015,Nurse,Government,3393
+Pulau Pinang,2016,Doctor,Government ,1939
+Pulau Pinang,2016,Nurse,Government,3542
+Pulau Pinang,2017,Doctor,Government ,2581
+Pulau Pinang,2017,Nurse,Government,3598
+Perak,2015,Doctor,Government ,2378
+Perak,2015,Nurse,Government,5764
+Perak,2016,Doctor,Government ,2544
+Perak,2016,Nurse,Government,5872
+Perak,2017,Doctor,Government ,2884
+Perak,2017,Nurse,Government,5978
+Perlis,2015,Doctor,Government ,434
+Perlis,2015,Nurse,Government,870
+Perlis,2016,Doctor,Government ,483
+Perlis,2016,Nurse,Government,923
+Perlis,2017,Doctor,Government ,525
+Perlis,2017,Nurse,Government,916
+Selangor,2015,Doctor,Government ,5175
+Selangor,2015,Nurse,Government,8183
+Selangor,2016,Doctor,Government ,5646
+Selangor,2016,Nurse,Government,8739
+Selangor,2017,Doctor,Government ,7587
+Selangor,2017,Nurse,Government,9102
+Terengganu,2015,Doctor,Government ,1262
+Terengganu,2015,Nurse,Government,2772
+Terengganu,2016,Doctor,Government ,1399
+Terengganu,2016,Nurse,Government,2855
+Terengganu,2017,Doctor,Government ,1691
+Terengganu,2017,Nurse,Government,2955
+Sabah,2015,Doctor,Government ,2558
+Sabah,2015,Nurse,Government,7012
+Sabah,2016,Doctor,Government ,2685
+Sabah,2016,Nurse,Government,7217
+Sabah,2017,Doctor,Government ,3205
+Sabah,2017,Nurse,Government,7257
+Sarawak,2015,Doctor,Government ,2203
+Sarawak,2015,Nurse,Government,5584
+Sarawak,2016,Doctor,Government ,3061
+Sarawak,2016,Nurse,Government,5705
+Sarawak,2017,Doctor,Government ,4179
+Sarawak,2017,Nurse,Government,5802
+W.P. Kuala Lumpur,2015,Doctor,Government ,2480
+W.P. Kuala Lumpur,2015,Nurse,Government,8621
+W.P. Kuala Lumpur,2016,Doctor,Government ,2870
+W.P. Kuala Lumpur,2016,Nurse,Government,9052
+W.P. Kuala Lumpur,2017,Doctor,Government ,3745
+W.P. Kuala Lumpur,2017,Nurse,Government,7971
+W.P. Labuan,2015,Doctor,Government ,57
+W.P. Labuan,2015,Nurse,Government,230
+W.P. Labuan,2016,Doctor,Government ,57
+W.P. Labuan,2016,Nurse,Government,231
+W.P. Labuan,2017,Doctor,Government ,71
+W.P. Labuan,2017,Nurse,Government,230
+W.P. Putrajaya,2015,Doctor,Government ,4375
+W.P. Putrajaya,2015,Nurse,Government,2952
+W.P. Putrajaya,2016,Doctor,Government ,4449
+W.P. Putrajaya,2016,Nurse,Government,2875
+W.P. Putrajaya,2017,Doctor,Government ,4261
+W.P. Putrajaya,2017,Nurse,Government,2312
